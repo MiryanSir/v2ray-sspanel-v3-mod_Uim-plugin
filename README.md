@@ -1,7 +1,7 @@
 # v2ray-sspanel-v3-mod_Uim-plugin
 # 免费版本
 # 使用教程请看wiki
-### 收费版 [请点击这里](https://github.com/rico93/pay-v2ray-sspanel-v3-mod_Uim-plugin/)
+### 收费版 [请点击这里](https://github.com/MiryanSir/pay-v2ray-sspanel-v3-mod_Uim-plugin/)
 ## 公告
 
 ## Thanks
