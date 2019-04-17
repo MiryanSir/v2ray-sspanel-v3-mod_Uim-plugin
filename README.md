@@ -7,7 +7,7 @@
 ## Thanks
 1. 感恩的 [ColetteContreras's repo](https://github.com/ColetteContreras/v2ray-ssrpanel-plugin). 让我一个go小白有了下手地。主要起始框架来源于这里
 2. 感恩 [eycorsican](https://github.com/eycorsican) 在v2ray-core [issue](https://github.com/v2ray/v2ray-core/issues/1514), 促成了go版本提上日程
-3.本项目不是我的原创[fork自]https://github.com/rico93
+3. 本项目不是我的原创[fork自]https://github.com/rico93
 
 
 # 划重点
